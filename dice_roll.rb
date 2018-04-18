@@ -4,5 +4,5 @@
 
 def roll
   #rand(6) + 1
-  
+  (1...6).to_a
 end
