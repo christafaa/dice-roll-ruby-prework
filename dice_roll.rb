@@ -4,6 +4,6 @@
 
 def roll
   #rand(6) + 1
-  numbers = (1...6).to_a
+  numbers = (1..6).to_a
   numbers.sample
 end
